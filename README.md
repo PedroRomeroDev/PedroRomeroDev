@@ -2,8 +2,11 @@
 
 **`Desenvolvedor Front End`**
 
+<p align="justify">
 Me chamo Pedro Romero, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio e também cursei o técnico em Informática pela ETEC. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na FATEC, onde venho aprofundando meus conhecimentos em desenvolvimento web e boas práticas de programação.
+
 Sou apaixonado por tecnologia e gosto de transformar ideias em projetos reais. Utilizo meus repositórios como forma de compartilhar meu aprendizado, evolução e experiências ao longo da minha jornada como desenvolvedor.
+</p>
 
 
 <p align="left">
