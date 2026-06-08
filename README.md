@@ -26,8 +26,6 @@ Sou apaixonado por tecnologia e gosto de transformar ideias em projetos reais. U
     </a>
 </p>
 <br/>
-<br/>
----
 
 ### Linguagens e Tecnologias
 
