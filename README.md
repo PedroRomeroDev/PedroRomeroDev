@@ -124,4 +124,11 @@ Me chamo Pedro Romero, tenho 18 anos e sou natural de São Paulo. Concluí o ens
 <br/>
 <br/>
 
+## PROJETOS 
+
+[![🐶 ADOTAPET](https://img.shields.io/badge/🐶%20ADOTAPET-Acesse%20o%20Projeto-378B6F?style=for-the-badge)](https://github.com/SEU_USERNAME/ADOTAPET)
+
+
+
+
 
