@@ -8,10 +8,6 @@
 
 <br/>
 
-<table align="center" width="90%">
-<tr>
-<td>
-
 <p align="justify">
 Me chamo <b>Pedro Romero</b>, tenho 18 anos e sou natural de São Paulo.
 Concluí o ensino médio e cursei o técnico em Informática pela <b>ETEC</b>.
@@ -24,10 +20,6 @@ projetos reais. Utilizo meus repositórios como forma de compartilhar
 meu aprendizado, evolução e experiências ao longo da minha jornada
 como desenvolvedor.
 </p>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
