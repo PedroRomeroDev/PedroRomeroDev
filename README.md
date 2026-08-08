@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=220&section=header&text=Pedro%20Romero&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front%20End&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Pedro!;18+anos+%7C+S%C3%A3o+Paulo%2C+Brasil;Estudante+de+DSM+na+FATEC;Apaixonado+por+transformar+ideias+em+c%C3%B3digo" />
+<img style="color: #ffffff;" src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2800&pause=900&color=ffffff&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Pedro!;18+anos+%7C+S%C3%A3o+Paulo%2C+Brasil;Estudante+de+DSM+na+FATEC;Apaixonado+por+transformar+ideias+em+c%C3%B3digo" />
 
 </div>
 
@@ -20,6 +20,8 @@ projetos reais. Utilizo meus repositórios como forma de compartilhar
 meu aprendizado, evolução e experiências ao longo da minha jornada
 como desenvolvedor.
 </p>
+<br/>
+<br/>
 
 <br/>
 
