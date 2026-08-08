@@ -8,6 +8,10 @@
 
 <br/>
 
+<table align="center" width="70%">
+<tr>
+<td style="border: 2px solid #0072ff; border-radius: 12px; padding: 24px; background-color: #0d1117;">
+
 <p align="center">
 Me chamo <b>Pedro Romero</b>, tenho 18 anos e sou natural de São Paulo.
 Concluí o ensino médio e cursei o técnico em Informática pela <b>ETEC</b>.
@@ -18,9 +22,25 @@ desenvolvimento web e boas práticas de programação.
 Sou apaixonado por tecnologia e gosto de transformar ideias em
 projetos reais. Utilizo meus repositórios como forma de compartilhar
 meu aprendizado, evolução e experiências ao longo da minha jornada
-como desenvolvedor. 💙
+como desenvolvedor.
 </p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h3 align="center">Conhecimentos</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind,sass,php,laravel,nodejs,git,py&theme=dark" />
+
+</div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%"/>
+
+<p align="center"><sub>Feito com 💙 por Pedro Romero</sub></p>
