@@ -29,7 +29,7 @@ como desenvolvedor.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind,sass,php,laravel,nodejs,git,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind,php,laravel,nodejs,git&theme=dark" />
 
 </div>
 
