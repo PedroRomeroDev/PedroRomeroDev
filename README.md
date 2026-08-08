@@ -24,5 +24,3 @@ como desenvolvedor. 💙
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%"/>
-
-<p align="center"><sub>Feito com 💙 por Pedro Romero</sub></p>
