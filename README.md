@@ -25,7 +25,7 @@ como desenvolvedor.
 
 <br/>
 
-<h3 align="center">Conhecimentos</h3>
+<h1 align="center">Conhecimentos</h1>
 
 <div align="center">
 
@@ -36,5 +36,3 @@ como desenvolvedor.
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&height=120&section=footer" width="100%"/>
-
-<p align="center"><sub>Feito por Pedro Romero</sub></p>
